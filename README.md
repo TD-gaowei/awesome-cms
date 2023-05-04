@@ -7,6 +7,7 @@ A collection of awesome CMS solutions
 - [Ant Design Pro](https://pro.ant.design/zh-CN/)
 
 ## Vue
+- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 
 ## License
 
