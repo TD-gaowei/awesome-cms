@@ -4,7 +4,7 @@
 A collection of awesome CMS solutions
 
 ## React
-- [Ant Design Pro](https://pro.ant.design/zh-CN/)
+- [Ant Design Pro](https://pro.ant.design/zh-CN/) - 开箱即用的中台前端 / 设计解决方案
 
 ## Vue
 - [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
