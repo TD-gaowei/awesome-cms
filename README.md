@@ -8,3 +8,5 @@ A collection of awesome CMS solutions
 ## Vue
 
 ## License
+
+MIT [license](./LICENSE)
