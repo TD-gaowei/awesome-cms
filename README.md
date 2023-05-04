@@ -9,6 +9,8 @@ A collection of awesome CMS solutions
 ## Vue
 - [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 
+## Angular
+
 ## License
 
 MIT [license](./LICENSE)
