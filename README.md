@@ -10,6 +10,7 @@ A collection of awesome CMS solutions
 - [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/) - A magical vue admin
 
 ## Angular
+- [ngx-admin](https://www.akveo.com/ngx-admin/pages/dashboard) - Customizable admin dashboard template based on Angular 10+
 
 ## License
 
